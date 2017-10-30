@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c8fc31d3cc96f4740b701411055afe56
+timeCreated: 1493308530
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _darkMaterial: {instanceID: 0}
+  - _lightMaterial: {instanceID: 0}
+  - _invulnMat: {instanceID: 0}
+  - _darkArrow: {fileID: 1737717943925422, guid: 5352d9d1ed9fc4c4e8e6a87d9d6e3c34,
+      type: 2}
+  - _lightArrow: {fileID: 1737717943925422, guid: 5352d9d1ed9fc4c4e8e6a87d9d6e3c34,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

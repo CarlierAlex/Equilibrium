@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 80beb5c04c48d9f49aa8ecbe29a96478
+timeCreated: 1489869525
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _link: {instanceID: 0}
+  - _chargeTxt: {instanceID: 0}
+  - _camController: {instanceID: 0}
+  - _dashParticles: {instanceID: 0}
+  - _chargeBeamParticles: {instanceID: 0}
+  - _damagedParticles: {instanceID: 0}
+  - _swordSlicePrefab: {fileID: 1399971497976630, guid: 910b177f6b7385748a166b4d5390f061,
+      type: 2}
+  - _beamPrefab: {fileID: 1281448614249840, guid: c8aa09287b07e9344ad9eab2de9fd1c7,
+      type: 2}
+  - _sword: {instanceID: 0}
+  - _beamSpawn: {instanceID: 0}
+  - _swordSwing: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
